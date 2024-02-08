@@ -6,7 +6,7 @@ Podemos mirar unos cuantos de los comentados [**aqui**](https://realpython.com/p
 
 | interes | en estudio | nombre                 |
 |:-------:|:----------:|:-----------------------|
-|         |   - [ ]    | apiai                  |
+|         |   - [ ] e  | apiai                  |
 |         |            | assemblyai             |
 |         |            | google-cloud-speech    |
 |         |            | pocketsphinx           |
