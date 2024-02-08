@@ -2,13 +2,15 @@
 
 Podemos mirar unos cuantos de los comentados [**aqui**](https://realpython.com/python-speech-recognition/):
 
->A handful of packages for speech recognition exist on PyPI. A few of them include:
+>A handful of packages for speech recognition exist on PyPI. A few of them:
 
-- [ ] apiai
-- [ ] assemblyai
-- [ ] google-cloud-speech
-- [ ] pocketsphinx
-- [ ] SpeechRecognition
-- [ ] watson-developer-cloud
-- [ ] wit
-- [ ] ...
+| interes | en estudio | nombre                 |
+|:-------:|:----------:|:-----------------------|
+|         |   - [ ]    | apiai                  |
+|         |            | assemblyai             |
+|         |            | google-cloud-speech    |
+|         |            | pocketsphinx           |
+|         |            | SpeechRecognition      |
+|         |            | watson-developer-cloud |
+|         |            | wit                    |
+
